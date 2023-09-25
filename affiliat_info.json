@@ -2,24 +2,24 @@
   "annonces": [
     {
       "id": 1,
-      "nom": "Gamivo.com",
-      "description": "SAVE UP TO 80% ON GAMES AND SOFTWARE",
-      "lien_affiliation": "https://www.kqzyfj.com/click-100999215-15613798",
-      "imageLink": "https://www.tqlkg.com/image-100999215-15613798"
+      "nom": "Annonceur 1",
+      "description": "Description de l'annonceur 1",
+      "lien_affiliation": "https://7624.play.gamezop.com/",
+      "imageLink": "https://static.gamezop.com/creatives/cc54d3e4-b4fc-4981-bb7c-a50aeea72c15.png"
     },
     {
       "id": 2,
-      "nom": "GAMIVO.com",
-      "description": "BEST VIDEO GAMES ARE WAITING FOR YOU ON GAMIVO.com",
-      "lien_affiliation": "https://www.dpbolvw.net/click-100999215-15553816",
-      "imageLink": "https://www.tqlkg.com/image-100999215-15553816"
+      "nom": "Annonceur 2",
+      "description": "Description de l'annonceur 2",
+      "lien_affiliation": "https://7624.play.gamezop.com/puzzle-and-logic-games",
+      "imageLink": "https://static.gamezop.com/creatives/a1058a90-c6be-4438-8150-69b20ec5a366.png"
     },
     {
       "id": 3,
-      "nom": "Gamivo.COM",
-      "description": "SAVE UP TO 80% ON GAMES AND SOFTWARE",
-      "lien_affiliation": "https://www.jdoqocy.com/click-100999215-15583240",
-      "imageLink": "https://www.awltovhc.com/image-100999215-15583240"
+      "nom": "Annonceur 3",
+      "description": "Description de l'annonceur 3",
+      "lien_affiliation": "https://7624.play.gamezop.com/action-games",
+      "imageLink": "https://static.gamezop.com/creatives/cc54d3e4-b4fc-4981-bb7c-a50aeea72c15.png"
     }
   ]
 }
