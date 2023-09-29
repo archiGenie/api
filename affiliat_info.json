@@ -748,7 +748,21 @@
       "description": "Amazon Exclusive",
       "lien_affiliation": "https://www.amazon.com/Hasbro-Games-Super-Mario-Jenga/dp/B083YKVN9Z?crid=2Z7P89OZ078FW&keywords=amazon+games&qid=1696011913&sprefix=amazon+ga%2Caps%2C235&sr=8-27&linkCode=li2&tag=archigenie-20&linkId=4e8de10785186d18df5cd49e4c615fb4&language=en_US&ref_=as_li_ss_il",
       "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B083YKVN9Z&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
-    }
+    },
+    {
+  "id": 131,
+  "nom": "Oculus Quest 2 - Advanced All-In-One Virtual Reality Headset",
+  "description": "Digital Video Game",
+  "lien_affiliation": "https://www.amazon.com/Oculus-Quest-Advanced-All-One-Virtual/dp/B099VMT8VZ?crid=2SZORE9MX9WMC&keywords=Digital+Video+Games&qid=1696015497&sprefix=luxury+beauty%2Caps%2C203&sr=8-17-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1&linkCode=li2&tag=archigenie-20&linkId=d284508b1272ec11947f72bfd186681a&language=en_US&ref_=as_li_ss_il",
+  "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B099VMT8VZ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
+   },
+    {
+  "id": 132,
+  "nom": "Xbox Game Pass for PC Membership",
+  "description": "Digital Video Game",
+  "lien_affiliation": "https://www.amazon.com/Xbox-Game-Pass-PC-Membership/dp/B08KJW9BK7?crid=2SZORE9MX9WMC&keywords=Digital+Video+Games&qid=1696015653&sprefix=luxury+beauty%2Caps%2C203&sr=8-1&linkCode=li2&tag=archigenie-20&linkId=c5b695327235c5974ad5b47806280791&language=en_US&ref_=as_li_ss_il",
+  "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08KJW9BK7&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
+   }
   ],
   "annonces_livre": [
     {
@@ -1233,7 +1247,21 @@
         "description": "Amazon Exclusive",
         "lien_affiliation": "https://www.amazon.com/Hasbro-Games-Super-Mario-Jenga/dp/B083YKVN9Z?crid=2Z7P89OZ078FW&keywords=amazon+games&qid=1696011913&sprefix=amazon+ga%2Caps%2C235&sr=8-27&linkCode=li2&tag=archigenie-20&linkId=4e8de10785186d18df5cd49e4c615fb4&language=en_US&ref_=as_li_ss_il",
         "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B083YKVN9Z&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
-    }
+    },
+     {
+  "id": 133,
+  "nom": "Oculus Quest 2 - Advanced All-In-One Virtual Reality Headset",
+  "description": "Digital Video Game",
+  "lien_affiliation": "https://www.amazon.com/Oculus-Quest-Advanced-All-One-Virtual/dp/B099VMT8VZ?crid=2SZORE9MX9WMC&keywords=Digital+Video+Games&qid=1696015497&sprefix=luxury+beauty%2Caps%2C203&sr=8-17-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1&linkCode=li2&tag=archigenie-20&linkId=d284508b1272ec11947f72bfd186681a&language=en_US&ref_=as_li_ss_il",
+  "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B099VMT8VZ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
+   },
+    {
+  "id": 134,
+  "nom": "Xbox Game Pass for PC Membership",
+  "description": "Digital Video Game",
+  "lien_affiliation": "https://www.amazon.com/Xbox-Game-Pass-PC-Membership/dp/B08KJW9BK7?crid=2SZORE9MX9WMC&keywords=Digital+Video+Games&qid=1696015653&sprefix=luxury+beauty%2Caps%2C203&sr=8-1&linkCode=li2&tag=archigenie-20&linkId=c5b695327235c5974ad5b47806280791&language=en_US&ref_=as_li_ss_il",
+  "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08KJW9BK7&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
+   }
 
   ]
 }
