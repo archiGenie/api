@@ -902,6 +902,20 @@
     "description": "Portable Projectors for Pocket Monster",
     "lien_affiliation": "https://www.amazon.com/Projector-FATORK-Projectors-Pocket-Monster/dp/B09P8QYJ89?crid=17EHHJ71HKL9R&keywords=Amazon%2BGames&psr=EY17&qid=1696078293&s=todays-deals&sprefix=amazon+games%2Ctodays-deals%2C342&sr=1-31&th=1&linkCode=li2&tag=archigenie-20&linkId=b11ec875056308e6601b8cf9c5fa5429&language=en_US&ref_=as_li_ss_il",
     "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09P8QYJ89&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
+  },
+  {
+    "id": 174,
+    "nom": "SAMSUNG microSDXC Memory Card",
+    "description": "256GB MicroSDXC EVO Select Memory Card with Adapter",
+    "lien_affiliation": "https://www.amazon.com/SAMSUNG-microSD-MicroSDXC-MB-MD256SB-AM/dp/B0C1PGV756?crid=17EHHJ71HKL9R&keywords=Amazon%2BGames&psr=EY17&qid=1696079521&s=todays-deals&sprefix=amazon%2Bgames%2Ctodays-deals%2C342&sr=1-45&th=1&linkCode=li2&tag=archigenie-20&linkId=6c5b76cb325bd832484618f1e0eb9326&language=en_US&ref_=as_li_ss_il",
+    "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C1PGV756&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
+  },
+ {
+    "id": 175,
+    "nom": "ApudArmis Giant Tumble Tower",
+    "description": "Wooden Toppling Tower with Dice and Game Rules",
+    "lien_affiliation": "https://www.amazon.com/ApudArmis-Giant-Tumble-Wooden-Toppling/dp/B07ZFRSNHF?crid=17EHHJ71HKL9R&keywords=Amazon+Games&psr=EY17&qid=1696079521&s=todays-deals&sprefix=amazon+games%2Ctodays-deals%2C342&sr=1-48-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1&m=A17UMOCTSRI18I&SPES=1&linkCode=li2&tag=archigenie-20&linkId=3a22c1ef49d8d860847fa567e0428ea8&language=en_US&ref_=as_li_ss_il",
+    "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07ZFRSNHF&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
   }
   ],
   "annonces_livre": [
@@ -1541,7 +1555,21 @@
       "description": "Portable Projectors for Pocket Monster",
       "lien_affiliation": "https://www.amazon.com/Projector-FATORK-Projectors-Pocket-Monster/dp/B09P8QYJ89?crid=17EHHJ71HKL9R&keywords=Amazon%2BGames&psr=EY17&qid=1696078293&s=todays-deals&sprefix=amazon+games%2Ctodays-deals%2C342&sr=1-31&th=1&linkCode=li2&tag=archigenie-20&linkId=b11ec875056308e6601b8cf9c5fa5429&language=en_US&ref_=as_li_ss_il",
       "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09P8QYJ89&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
-    }
+    },
+    {
+    "id": 176,
+    "nom": "SAMSUNG microSDXC Memory Card",
+    "description": "256GB MicroSDXC EVO Select Memory Card with Adapter",
+    "lien_affiliation": "https://www.amazon.com/SAMSUNG-microSD-MicroSDXC-MB-MD256SB-AM/dp/B0C1PGV756?crid=17EHHJ71HKL9R&keywords=Amazon%2BGames&psr=EY17&qid=1696079521&s=todays-deals&sprefix=amazon%2Bgames%2Ctodays-deals%2C342&sr=1-45&th=1&linkCode=li2&tag=archigenie-20&linkId=6c5b76cb325bd832484618f1e0eb9326&language=en_US&ref_=as_li_ss_il",
+    "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C1PGV756&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
+  },
+ {
+    "id": 177,
+    "nom": "ApudArmis Giant Tumble Tower",
+    "description": "Wooden Toppling Tower with Dice and Game Rules",
+    "lien_affiliation": "https://www.amazon.com/ApudArmis-Giant-Tumble-Wooden-Toppling/dp/B07ZFRSNHF?crid=17EHHJ71HKL9R&keywords=Amazon+Games&psr=EY17&qid=1696079521&s=todays-deals&sprefix=amazon+games%2Ctodays-deals%2C342&sr=1-48-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1&m=A17UMOCTSRI18I&SPES=1&linkCode=li2&tag=archigenie-20&linkId=3a22c1ef49d8d860847fa567e0428ea8&language=en_US&ref_=as_li_ss_il",
+    "imageLink": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07ZFRSNHF&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=archigenie-20&language=en_US"
+  }
 
   ]
 }
