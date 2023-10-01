@@ -1,4 +1,8 @@
 {
-    "valeur":"28"
+  "valeur": [
+    {
+    "valeur_code":"28",
      "valeur_name":"2.8.0"
+    }
+  ]
 }
