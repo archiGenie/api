@@ -88,7 +88,7 @@
     },
     {
       "Id": 14,
-      "App_Name": "Le Renard et les Oies : Un Conte Amusant et Surprenant ! |",
+      "App_Name": "Le Renard et les Oies : Un Conte Amusant et Surprenant !",
       "URL": "https://www.youtube.com/watch?v=Eh-c1MbQTuk",
       "App_Icon": "https://i.ytimg.com/vi/Eh-c1MbQTuk/hqdefault.jpg"
     },
