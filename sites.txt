@@ -1,4 +1,4 @@
-
+Pouvez-vous traduire en arabe les catégories, la description et le type de code suivant en retour avec la même forme ?
     Histoire(
         id = 2669,
         categories = "Business, E-commerce",
