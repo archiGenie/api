@@ -1,243 +1,63 @@
-Categories(id = 13, categories = "مفضلتي", image_categorie = "hotel_class", nombre = ""),
-    Categories(
-        id = 31,
-        categories = "أحدث الذكاء الاصطناعي",//Latest AI
-        image_categorie = "psychology",
-        nombre = "1519"
-    ),
-    Categories(
-        id = 1,
-        categories = "نموذج ثلاثي الأبعاد",//3D Model
-        image_categorie = "3d_rotation",
-        nombre = "58"
-    ),
-    Categories(
-        id = 2,
-        categories = "الدردشة بالذكاء الاصطناعي والمساعد",
-        image_categorie = "chat",
-        nombre = "31"
-    ),
-    Categories(
-        id = 3,
-        categories = "كشف الذكاء الاصطناعي",
-        image_categorie = "visibility",
-        nombre = "44"
-    ),
-    Categories(
-        id = 4,
-        categories = "ذكاء اصطناعي مفيد",
-        image_categorie = "thumb_up",
-        nombre = "30"
-    ),
-    Categories(id = 5, categories = "مذهل", image_categorie = "star_rate", nombre = "110"),
-    Categories(id = 6, categories = "فن", image_categorie = "palette", nombre = "131"),
-    Categories(id = 7, categories = "مساعد الكود", image_categorie = "code", nombre = "62"),
-    Categories(id = 8, categories = "تحرير الصوت", image_categorie = "audiotrack", nombre = "45"),
-    Categories(
-        id = 9,
-        categories = "الذكاء الاصطناعي المستقل",
-        image_categorie = "smart_toy",
-        nombre = "29"
-    ),
-    Categories(id = 10, categories = "الرموز التعبيرية", image_categorie = "face", nombre = "50"),
-    Categories(
-        id = 11,
-        categories = "الأعمال",
-        image_categorie = "business_center",
-        nombre = "150"
-    ),
-    Categories(
-        id = 12,
-        categories = "روبوتات المحادثة",
-        image_categorie = "chat_bubble_outline",
-        nombre = "105"
-    ),
-    Categories(
-        id = 13,
-        categories = "المواعدة والعلاقات",
-        image_categorie = "favorite_border",
-        nombre = "13"
-    ),
-    Categories(
-        id = 14,
-        categories = "أدوات المطور",
-        image_categorie = "build_circle",
-        nombre = "98"
-    ),
-    Categories(
-        id = 15,
-        categories = "التجارة الإلكترونية",
-        image_categorie = "shopping_cart",
-        nombre = "80"
-    ),
-    Categories(id = 16, categories = "البريد الإلكتروني", image_categorie = "email", nombre = "55"),
-    Categories(
-        id = 17,
-        categories = "التعليم / الدراسات",
-        image_categorie = "school",
-        nombre = "184"
-    ),
-    Categories(
-        id = 18,
-        categories = "إضافات ChatGPT",
-        image_categorie = "extension",
-        nombre = "93"
-    ),
-    Categories(
-        id = 19,
-        categories = "تبديل الوجوه والتزييف العميق",
-        image_categorie = "face_retouching_natural",
-        nombre = "20"
-    ),
-    Categories(id = 20, categories = "الموضة", image_categorie = "style", nombre = "20"),
-    Categories(id = 21, categories = "متميز", image_categorie = "star_border", nombre = "25"),
-    Categories(
-        id = 22,
-        categories = "الملفات والجداول",
-        image_categorie = "table_chart",
-        nombre = "64"
-    ),
-    Categories(
-        id = 23,
-        categories = "التمويل",
-        image_categorie = "account_balance_wallet",
-        nombre = "49"
-    ),
-    Categories(id = 24, categories = "الألعاب", image_categorie = "sports_esports", nombre = "41"),
-    Categories(id = 25, categories = "مشاريع GitHub", image_categorie = "code", nombre = "85"),
-    Categories(
-        id = 26,
-        categories = "الرعاية الصحية",
-        image_categorie = "local_hospital",
-        nombre = "27"
-    ),
-    Categories(id = 27, categories = "الموارد البشرية", image_categorie = "group", nombre = "72"),
-    Categories(id = 28, categories = "تحرير الصور", image_categorie = "edit", nombre = "139"),
-    Categories(
-        id = 29,
-        categories = "مولدات الصور",
-        image_categorie = "auto_awesome",
-        nombre = "174"
-    ),
-    Categories(
-        id = 30,
-        categories = "الإصدار الوشيك",
-        image_categorie = "new_releases",
-        nombre = "93"
-    ),
-    Categories(
-        id = 32,
-        categories = "المساعدون القانونيون",
-        image_categorie = "gavel",
-        nombre = "19"
-    ),
-    Categories(
-        id = 33,
-        categories = "المساعدون الحياتيون",
-        image_categorie = "assistant",
-        nombre = "188"
-    ),
-    Categories(
-        id = 34,
-        categories = "نماذج LLM",
-        image_categorie = "model_training",
-        nombre = "60"
-    ),
-    Categories(id = 35, categories = "إنشاء الشعار", image_categorie = "brush", nombre = "21"),
-    Categories(id = 36, categories = "التسويق", image_categorie = "campaign", nombre = "96"),
-    Categories(id = 37, categories = "الذاكرة", image_categorie = "memory", nombre = "18"),
-    Categories(id = 38, categories = "الموسيقى", image_categorie = "music_note", nombre = "79"),
-    Categories(
-        id = 39,
-        categories = "لا كود / كود منخفض",
-        image_categorie = "widgets",
-        nombre = "105"
-    ),
-    Categories(
-        id = 40,
-        categories = "أدوات الذكاء الاصطناعي الشائعة",
-        image_categorie = "trending_up",
-        nombre = "56"
-    ),
-    Categories(
-        id = 41,
-        categories = "العرض التقديمي",
-        image_categorie = "present_to_all",
-        nombre = "24"
-    ),
-    Categories(
-        id = 42,
-        categories = "الإنتاجية",
-        image_categorie = "access_time_filled",
-        nombre = "222"
-    ),
-    Categories(
-        id = 43,
-        categories = "التعليمات والمساعدات",
-        image_categorie = "help_outline",
-        nombre = "64"
-    ),
-    Categories(
-        id = 44,
-        categories = "العقارات / الهندسة المعمارية",
-        image_categorie = "apartment",
-        nombre = "26"
-    ),
-    Categories(id = 45, categories = "البحث والعلوم", image_categorie = "science", nombre = "42"),
-    Categories(id = 46, categories = "الروبوتات والأجهزة", image_categorie = "adb", nombre = "11"),
-    Categories(id = 47, categories = "محرك البحث", image_categorie = "search", nombre = "52"),
-    Categories(
-        id = 48,
-        categories = "الشبكات الاجتماعية",
-        image_categorie = "share",
-        nombre = "126"
-    ),
-    Categories(id = 49, categories = "مولد القصص", image_categorie = "auto_stories", nombre = "38"),
-    Categories(id = 50, categories = "الملخص", image_categorie = "summarize", nombre = "64"),
-    Categories(id = 51, categories = "مولدات النصوص", image_categorie = "article", nombre = "63"),
-    Categories(
-        id = 52,
-        categories = "من النص إلى الكلام",
-        image_categorie = "record_voice_over",
-        nombre = "51"
-    ),
-    Categories(
-        id = 53,
-        categories = "من النص إلى الفيديو",
-        image_categorie = "videocam",
-        nombre = "29"
-    ),
-    Categories(
-        id = 54,
-        categories = "هذا لا يوجد",
-        image_categorie = "visibility_off",
-        nombre = "40"
-    ),
-    Categories(id = 55, categories = "النسخ", image_categorie = "keyboard_voice", nombre = "70"),
-    Categories(id = 56, categories = "الترجمة", image_categorie = "translate", nombre = "35"),
-    Categories(id = 57, categories = "السفر", image_categorie = "flight_takeoff", nombre = "27"),
-    Categories(
-        id = 58,
-        categories = "تحرير الفيديو",
-        image_categorie = "movie_creation",
-        nombre = "87"
-    ),
-    Categories(
-        id = 59,
-        categories = "مولدات الفيديو",
-        image_categorie = "slideshow",
-        nombre = "108"
-    ),
-    Categories(
-        id = 60,
-        categories = "استنساخ الصوت",
-        image_categorie = "mic_external_on",
-        nombre = "23"
-    ),
-    Categories(id = 61, categories = "المواقع والتصميم", image_categorie = "web", nombre = "80"),
-    Categories(
-        id = 62,
-        categories = "الكتابة وسيو الويب",
-        image_categorie = "edit_note",
-        nombre = "126"
-    )
+ Categories(id = 13, categories = "My Favorites", image_categorie = "hotel_class", nombre = ""),
+    Categories(id = 31, categories = "Latest AI", image_categorie = "psychology", nombre = "1519"),
+    Categories(id = 1, categories = "3D Model", image_categorie = "3d_rotation", nombre = "58"),
+    Categories(id = 2, categories = "AI Chat & Assistant", image_categorie = "chat", nombre = "31"),
+    Categories(id = 3, categories = "AI Detection", image_categorie = "visibility", nombre = "44"),
+    Categories(id = 4, categories = "AI Useful", image_categorie = "thumb_up", nombre = "30"),
+    Categories(id = 5, categories = "Amazing", image_categorie = "star_rate", nombre = "110"),
+    Categories(id = 6, categories = "Art", image_categorie = "palette", nombre = "131"),
+    Categories(id = 7, categories = "Assistant Code", image_categorie = "code", nombre = "62"),
+    Categories(id = 8, categories = "Audio Editing", image_categorie = "audiotrack", nombre = "45"),
+    Categories(id = 9, categories = "Autonomous AI", image_categorie = "smart_toy", nombre = "29"),
+    Categories(id = 10, categories = "Avatars", image_categorie = "face", nombre = "50"),
+    Categories(id = 11, categories = "Business", image_categorie = "business_center", nombre = "150"),
+    Categories(id = 12, categories = "ChatBots", image_categorie = "chat_bubble_outline", nombre = "105"),
+    Categories(id = 13, categories = "Dating & Relationships", image_categorie = "favorite_border", nombre = "13"),
+    Categories(id = 14, categories = "Developer Tools", image_categorie = "build_circle", nombre = "98"),
+    Categories(id = 15, categories = "E-commerce", image_categorie = "shopping_cart", nombre = "80"),
+    Categories(id = 16, categories = "E-mail", image_categorie = "email", nombre = "55"),
+    Categories(id = 17, categories = "Education / Studies", image_categorie = "school", nombre = "184"),
+    Categories(id = 18, categories = "Extensions ChatGPT", image_categorie = "extension", nombre = "93"),
+    Categories(id = 19, categories = "Face Swap & DeepFake", image_categorie = "face_retouching_natural", nombre = "20"),
+    Categories(id = 20, categories = "Fashion", image_categorie = "style", nombre = "20"),
+    Categories(id = 21, categories = "Featured", image_categorie = "star_border", nombre = "25"),
+    Categories(id = 22, categories = "Files & Spreadsheets", image_categorie = "table_chart", nombre = "64"),
+    Categories(id = 23, categories = "Finance", image_categorie = "account_balance_wallet", nombre = "49"),
+    Categories(id = 24, categories = "Games", image_categorie = "sports_esports", nombre = "41"),
+    Categories(id = 25, categories = "GitHub Projects", image_categorie = "code", nombre = "85"),
+    Categories(id = 26, categories = "Healthcare", image_categorie = "local_hospital", nombre = "27"),
+    Categories(id = 27, categories = "Human Resources", image_categorie = "group", nombre = "72"),
+    Categories(id = 28, categories = "Image Editing", image_categorie = "edit", nombre = "139"),
+    Categories(id = 29, categories = "Image Generators", image_categorie = "auto_awesome", nombre = "174"),
+    Categories(id = 30, categories = "Imminent Release", image_categorie = "new_releases", nombre = "93"),
+    Categories(id = 32, categories = "Legal Assistants", image_categorie = "gavel", nombre = "19"),
+    Categories(id = 33, categories = "Life Assistants", image_categorie = "assistant", nombre = "188"),
+    Categories(id = 34, categories = "LLM Models", image_categorie = "model_training", nombre = "60"),
+    Categories(id = 35, categories = "Logo Creation", image_categorie = "brush", nombre = "21"),
+    Categories(id = 36, categories = "Marketing", image_categorie = "campaign", nombre = "96"),
+    Categories(id = 37, categories = "Memory", image_categorie = "memory", nombre = "18"),
+    Categories(id = 38, categories = "Music", image_categorie = "music_note", nombre = "79"),
+    Categories(id = 39, categories = "No Code/Low Code", image_categorie = "widgets", nombre = "105"),
+    Categories(id = 40, categories = "Popular AI Tools", image_categorie = "trending_up", nombre = "56"),
+    Categories(id = 41, categories = "Presentation", image_categorie = "present_to_all", nombre = "24"),
+    Categories(id = 42, categories = "Productivity", image_categorie = "access_time_filled", nombre = "222"),
+    Categories(id = 43, categories = "Prompts & Aids", image_categorie = "help_outline", nombre = "64"),
+    Categories(id = 44, categories = "Real Estate / Architect", image_categorie = "apartment", nombre = "26"),
+    Categories(id = 45, categories = "Research & Science", image_categorie = "science", nombre = "42"),
+    Categories(id = 46, categories = "Robots and Devices", image_categorie = "adb", nombre = "11"),
+    Categories(id = 47, categories = "Search Engine", image_categorie = "search", nombre = "52"),
+    Categories(id = 48, categories = "Social Networks", image_categorie = "share", nombre = "126"),
+    Categories(id = 49, categories = "Storytelling Generator", image_categorie = "auto_stories", nombre = "38"),
+    Categories(id = 50, categories = "Summarizer", image_categorie = "summarize", nombre = "64"),
+    Categories(id = 51, categories = "Text Generators", image_categorie = "article", nombre = "63"),
+    Categories(id = 52, categories = "Text To Speech", image_categorie = "record_voice_over", nombre = "51"),
+    Categories(id = 53, categories = "Text-to-video", image_categorie = "videocam", nombre = "29"),
+    Categories(id = 54, categories = "This*DoesNotExist", image_categorie = "visibility_off", nombre = "40"),
+    Categories(id = 55, categories = "Transcriber", image_categorie = "keyboard_voice", nombre = "70"),
+    Categories(id = 56, categories = "Translation", image_categorie = "translate", nombre = "35"),
+    Categories(id = 57, categories = "Travel", image_categorie = "flight_takeoff", nombre = "27"),
+    Categories(id = 58, categories = "Video Edition", image_categorie = "movie_creation", nombre = "87"),
+    Categories(id = 59, categories = "Video Generators", image_categorie = "slideshow", nombre = "108"),
+    Categories(id = 60, categories = "Voice Cloning", image_categorie = "mic_external_on", nombre = "23"),
+    Categories(id = 61, categories = "Websites & Design", image_categorie = "web", nombre = "80"),
+    Categories(id = 62, categories = "Writing & Web SEO", image_categorie = "edit_note", nombre = "126")
