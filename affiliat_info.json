@@ -126,7 +126,15 @@
       "description": "250+ tranding games!",
       "lien_affiliation": "https://7624.play.gamezop.com/action-games",
       "imageLink": "https://static.gamezop.com/creatives/a9f84941-43fc-481a-8c17-1a461440285b.png"
+    },
+    {
+      "id": 19,
+      "nom": "Ai Store - All Ai Tools",
+      "description": "All AI tools in one app collection of everyone's needs, available in the market",
+      "lien_affiliation": "https://play.google.com/store/apps/details?id=ai.archigenie.aixperia",
+      "imageLink": "https://play-lh.googleusercontent.com/BtO2Vgn29CRJVptd4XHtf-ViNkbM8vsl5-qzQLRe0voT5ALnNyphgzJc5_kRTbsSLRtB=s250-rw"    
     }
+    
   ],
   "annonces_livre": [
     {
@@ -499,6 +507,13 @@
       "description": "Now play your favorite game",
       "lien_affiliation": "https://7624.play.gamezop.com/puzzle-and-logic-games",
       "imageLink": "https://static.gamezop.com/creatives/a491cede-367c-4607-9cf4-b4eb4c2826e4.png"
+    },
+    {
+      "id": 146,
+      "nom": "Ai Store - All Ai Tools",
+      "description": "All AI tools in one app collection of everyone's needs, available in the market",
+      "lien_affiliation": "https://play.google.com/store/apps/details?id=ai.archigenie.aixperia",
+      "imageLink": "https://play-lh.googleusercontent.com/BtO2Vgn29CRJVptd4XHtf-ViNkbM8vsl5-qzQLRe0voT5ALnNyphgzJc5_kRTbsSLRtB=s250-rw"    
     }
   ]
 }
