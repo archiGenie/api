@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "nom": "Offline Game",
+      "nom": "Game Offline",
       "description": "collection of offline and online games (1000 games).",
       "lien_affiliation": "https://bit.ly/3eTu6kA",
       "imageLink": "https://play-lh.googleusercontent.com/_-lo-LEylO7mOH0INzpBxJ82RvyDKCYGIOFITceQAbiVtORy1OrI6A5J9B1PxUKRfKw=s250-rw"
@@ -45,14 +45,14 @@
     },
     {
       "id": 7,
-      "nom": "Tagmatn Offline Mini Games",
+      "nom": "Tagmatn Games",
       "description": "A collection of 1,000 games available both offline and online.",
       "lien_affiliation": "https://bit.ly/40usIOY",
       "imageLink": "https://play-lh.googleusercontent.com/i_LK2oV_QyxdfL-vL_-ZDwcz9bcs6rcSLR0TC-_29oN2PvfQYpvYIxNRjffPuNQnHC3Z=s250-rw"
     },
     {
       "id": 8,
-      "nom": "ZenPlay Offline Mini Games",
+      "nom": "ZenPlay Games",
       "description": "A diverse selection of 1,000 games, playable both offline and online.",
       "lien_affiliation": "https://bit.ly/404ifs0",
       "imageLink": "https://play-lh.googleusercontent.com/GQgb6tnlM9J9zpc54uq91UjvURgfdza-5aSZFFQ6gcATy-dsEUYotJMlW6eYc3L1co8=s250-rw"
@@ -173,21 +173,21 @@
       "imageLink": "https://play-lh.googleusercontent.com/A57zF7gPGzilKOI7KaBHxxA_536ac0KeMmgSXAMzrV3p_V4qT_IOO78r1Tz3m3rM1rYa=s250-rw"
     },
     {
-      "id": 7,
-      "nom": "Tagmatn Offline Mini Games",
+      "id": 89,
+      "nom": "Tagmatn Games",
       "description": "A collection of 1,000 games available both offline and online.",
       "lien_affiliation": "https://bit.ly/40usIOY",
       "imageLink": "https://play-lh.googleusercontent.com/i_LK2oV_QyxdfL-vL_-ZDwcz9bcs6rcSLR0TC-_29oN2PvfQYpvYIxNRjffPuNQnHC3Z=s250-rw"
     },
     {
-      "id": 8,
-      "nom": "ZenPlay Offline Mini Games",
+      "id": 90,
+      "nom": "ZenPlay Games",
       "description": "A diverse selection of 1,000 games, playable both offline and online.",
       "lien_affiliation": "https://bit.ly/404ifs0",
       "imageLink": "https://play-lh.googleusercontent.com/GQgb6tnlM9J9zpc54uq91UjvURgfdza-5aSZFFQ6gcATy-dsEUYotJMlW6eYc3L1co8=s250-rw"
     },
     {
-      "id": 19,
+      "id": 91,
       "nom": "Ai Store - All Ai Tools",
       "description": "All AI tools in one app collection of everyone's needs, available in the market",
       "lien_affiliation": "https://play.google.com/store/apps/details?id=ai.archigenie.aixperia",
