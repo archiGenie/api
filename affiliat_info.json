@@ -2,47 +2,29 @@
   "annonces_games": [
     
      {
-      "id": 1,
-      "nom": "Il était une histoire",
-      "description": "collection de 180 contes avec Audio",
-      "lien_affiliation": "https://bit.ly/2zRP43D",
-      "imageLink": "https://play-lh.googleusercontent.com/gPmv24G7lboEvdgsPWNtYXOAYHPE4p8lo_u2GxNs05AfMCh2pjDDidqSn_g_jnlgDL8=s250-rw"
+      "id": 7,
+      "nom": "Tagmatn Games",
+      "description": "A collection of 1,000 games available both offline and online.",
+      "lien_affiliation": "https://bit.ly/40usIOY",
+      "imageLink": "https://play-lh.googleusercontent.com/i_LK2oV_QyxdfL-vL_-ZDwcz9bcs6rcSLR0TC-_29oN2PvfQYpvYIxNRjffPuNQnHC3Z=s250-rw"
     },
     {
-      "id": 2,
-      "nom": "Game Offline",
-      "description": "collection of offline and online games (1000 games).",
-      "lien_affiliation": "https://bit.ly/3eTu6kA",
-      "imageLink": "https://play-lh.googleusercontent.com/_-lo-LEylO7mOH0INzpBxJ82RvyDKCYGIOFITceQAbiVtORy1OrI6A5J9B1PxUKRfKw=s250-rw"
+      "id": 8,
+      "nom": "ZenPlay Games",
+      "description": "A diverse selection of 1,000 games, playable both offline and online.",
+      "lien_affiliation": "https://bit.ly/404ifs0",
+      "imageLink": "https://play-lh.googleusercontent.com/GQgb6tnlM9J9zpc54uq91UjvURgfdza-5aSZFFQ6gcATy-dsEUYotJMlW6eYc3L1co8=s250-rw"
     },
     {
-      "id": 3,
-      "nom": "TiKCHBiLA GAMES",
-      "description": "Your Ultimate Collection of 1000+ Offline and Online Games!",
-      "lien_affiliation": "https://bit.ly/45Lc2Tg",
-      "imageLink": "https://play-lh.googleusercontent.com/zzHKV395qMdfC-CQkDGk_gXqb3_0VBhYur9YszBzWZBBN_THled3i7cVhh0if7IRkD3l=s250-rw"
-    },
-    {
-      "id": 4,
-      "nom": "Offline Games V2",
-      "description": "Collection of 1000+ Offline and Online Games!",
-      "lien_affiliation": "https://bit.ly/3tjI0Fr",
-      "imageLink": "https://play-lh.googleusercontent.com/yaVGhgeV2mH7vunaMFZGQRECT1ts-1Dir2-tVrbMnpH9r2JCo85Lm_kVu3Op86oGVmk=s250-rw"
-    },
-    {
-      "id": 5,
-      "nom": "English Stories",
-      "description": "English Stories AudioBook (Text + Audio)",
-      "lien_affiliation": "https://bit.ly/3NnXPme",
-      "imageLink": "https://play-lh.googleusercontent.com/_h7mhuUoAsAJFRmmDb63X7mBdgl9gnMNEwG49ShUyeduiRS7Z_pmdGKJd6PTjlkjRA=s250-rw"
-    },
-    {
-      "id": 6,
-      "nom": "Dames - Checkers",
-      "description": "Dames-Checkers is board game without internet",
-      "lien_affiliation": "https://bit.ly/3PxxaGa",
-      "imageLink": "https://play-lh.googleusercontent.com/rd3sbhrrSZ5I6MaPmod6gtkJe5SgUbFWy6nK19WlrSfwPL0sIvkoRT2l9mXgo_f-Fc1k=s250-rw"
-    },
+      "id": 19,
+      "nom": "Ai Store - All Ai Tools",
+      "description": "All AI tools in one app collection of everyone's needs, available in the market",
+      "lien_affiliation": "https://play.google.com/store/apps/details?id=ai.archigenie.aixperia",
+      "imageLink": "https://play-lh.googleusercontent.com/BtO2Vgn29CRJVptd4XHtf-ViNkbM8vsl5-qzQLRe0voT5ALnNyphgzJc5_kRTbsSLRtB=s250-rw"    
+    }
+    
+  ],
+  "annonces_livre": [
     {
       "id": 7,
       "nom": "Tagmatn Games",
@@ -58,136 +40,7 @@
       "imageLink": "https://play-lh.googleusercontent.com/GQgb6tnlM9J9zpc54uq91UjvURgfdza-5aSZFFQ6gcATy-dsEUYotJMlW6eYc3L1co8=s250-rw"
     },
     {
-      "id": 13,
-      "nom": "sports and racing games",
-      "description": "Play 250+ Free game online  ",
-      "lien_affiliation": "https://7624.play.gamezop.com/sports-and-racing-games",
-      "imageLink": "https://static.gamezop.com/creatives/dc8cdedc-674f-40c0-83dd-11d4de626995.png"
-    },
-    {
-      "id": 14,
-      "nom": "arcade-games",
-      "description": "250+ tranding games!",
-      "lien_affiliation": "https://7624.play.gamezop.com/arcade-games",
-      "imageLink": "https://static.gamezop.com/creatives/be2b7784-2a1d-4f22-b302-0a1e302db4f9.png"
-    },
-    {
-      "id": 15,
-      "nom": "adventure-games",
-      "description": "Now play your favorite game",
-      "lien_affiliation": "https://7624.play.gamezop.com/adventure-games",
-      "imageLink": "https://static.gamezop.com/creatives/b549419c-19af-4e84-ae43-f43172ab79c3.png"
-    },
-    {
-      "id": 16,
-      "nom": "strategy-games",
-      "description": "250+ tranding games!",
-      "lien_affiliation": "https://7624.play.gamezop.com/strategy-games",
-      "imageLink": "https://static.gamezop.com/creatives/a491cede-367c-4607-9cf4-b4eb4c2826e4.png"
-    },
-    {
-      "id": 18,
-      "nom": "action-games",
-      "description": "250+ tranding games!",
-      "lien_affiliation": "https://7624.play.gamezop.com/action-games",
-      "imageLink": "https://static.gamezop.com/creatives/a9f84941-43fc-481a-8c17-1a461440285b.png"
-    },
-    {
       "id": 19,
-      "nom": "Ai Store - All Ai Tools",
-      "description": "All AI tools in one app collection of everyone's needs, available in the market",
-      "lien_affiliation": "https://play.google.com/store/apps/details?id=ai.archigenie.aixperia",
-      "imageLink": "https://play-lh.googleusercontent.com/BtO2Vgn29CRJVptd4XHtf-ViNkbM8vsl5-qzQLRe0voT5ALnNyphgzJc5_kRTbsSLRtB=s250-rw"    
-    }
-    
-  ],
-  "annonces_livre": [
-    {
-      "id": 78,
-      "nom": "Il était une histoire",
-      "description": "collection de 180 contes avec Audio",
-      "lien_affiliation": "https://bit.ly/2zRP43D",
-      "imageLink": "https://play-lh.googleusercontent.com/gPmv24G7lboEvdgsPWNtYXOAYHPE4p8lo_u2GxNs05AfMCh2pjDDidqSn_g_jnlgDL8=s250-rw"
-    },
-    {
-      "id": 79,
-      "nom": "Offline Game",
-      "description": "collection of offline and online games (1000 games).",
-      "lien_affiliation": "https://bit.ly/3eTu6kA",
-      "imageLink": "https://play-lh.googleusercontent.com/_-lo-LEylO7mOH0INzpBxJ82RvyDKCYGIOFITceQAbiVtORy1OrI6A5J9B1PxUKRfKw=s250-rw"
-    },
-    {
-      "id": 80,
-      "nom": "TiKCHBiLA GAMES",
-      "description": "Your Ultimate Collection of 1000+ Offline and Online Games!",
-      "lien_affiliation": "https://bit.ly/45Lc2Tg",
-      "imageLink": "https://play-lh.googleusercontent.com/zzHKV395qMdfC-CQkDGk_gXqb3_0VBhYur9YszBzWZBBN_THled3i7cVhh0if7IRkD3l=s250-rw"
-    },
-    {
-      "id": 81,
-      "nom": "Offline Games V2",
-      "description": "Collection of 1000+ Offline and Online Games!",
-      "lien_affiliation": "https://bit.ly/3tjI0Fr",
-      "imageLink": "https://play-lh.googleusercontent.com/yaVGhgeV2mH7vunaMFZGQRECT1ts-1Dir2-tVrbMnpH9r2JCo85Lm_kVu3Op86oGVmk=s250-rw"
-    },
-    {
-      "id": 82,
-      "nom": "English Stories",
-      "description": "English Stories AudioBook (Text + Audio)",
-      "lien_affiliation": "https://bit.ly/3NnXPme",
-      "imageLink": "https://play-lh.googleusercontent.com/_h7mhuUoAsAJFRmmDb63X7mBdgl9gnMNEwG49ShUyeduiRS7Z_pmdGKJd6PTjlkjRA=s250-rw"
-    },
-    {
-      "id": 83,
-      "nom": "Dames - Checkers",
-      "description": "Dames-Checkers is board game without internet",
-      "lien_affiliation": "https://bit.ly/3PxxaGa",
-      "imageLink": "https://play-lh.googleusercontent.com/rd3sbhrrSZ5I6MaPmod6gtkJe5SgUbFWy6nK19WlrSfwPL0sIvkoRT2l9mXgo_f-Fc1k=s250-rw"
-    },
-    {
-      "id": 84,
-      "nom": "Mille et une Nuits",
-      "description": "Les Histoires de Scheherazade et de Shahryar Texte + Audio",
-      "lien_affiliation": "https://bit.ly/39fj0YZ",
-      "imageLink": "https://play-lh.googleusercontent.com/hyhwcQKhnyX2yROfNioomSXnGLH3oaGIfRAlG7Bq1kGn_CzELL7j3NqjB8aRp4lL_1E=s250-rw"
-    },
-    {
-      "id": 86,
-      "nom": "Conversation Française",
-      "description": "la meilleure application pour communiquer Français",
-      "lien_affiliation": "https://bit.ly/3LGUxM6",
-      "imageLink": "https://play-lh.googleusercontent.com/joEzx0U75qRQaSFr6m8NzwJO7r3lMp5AbAjb7hFhwG3MiIymdv4FrFP8Xg5Ai72thQc=s250-rw"
-    },
-    {
-      "id": 87,
-      "nom": "Conjugaison Français",
-      "description": "conjugaison, définitions verbes, synonymes verbes (hors ligne)",
-      "lien_affiliation": "https://bit.ly/3rEbU9w",
-      "imageLink": "https://play-lh.googleusercontent.com/cy4Wiefd5A2AOdzS1yJuhDykEk1_r_G904yzwpdT9wf0HN07fa7j2JoNPr7zD4XE72M=s250-rw"
-    },
-    {
-      "id": 88,
-      "nom": "Apprendre Français - Grammaire",
-      "description": "Plus de 330 Cours et 8000 Exercices Grammaire + correction",
-      "lien_affiliation": "https://bit.ly/3PTZwLX",
-      "imageLink": "https://play-lh.googleusercontent.com/A57zF7gPGzilKOI7KaBHxxA_536ac0KeMmgSXAMzrV3p_V4qT_IOO78r1Tz3m3rM1rYa=s250-rw"
-    },
-    {
-      "id": 89,
-      "nom": "Tagmatn Games",
-      "description": "A collection of 1,000 games available both offline and online.",
-      "lien_affiliation": "https://bit.ly/40usIOY",
-      "imageLink": "https://play-lh.googleusercontent.com/i_LK2oV_QyxdfL-vL_-ZDwcz9bcs6rcSLR0TC-_29oN2PvfQYpvYIxNRjffPuNQnHC3Z=s250-rw"
-    },
-    {
-      "id": 90,
-      "nom": "ZenPlay Games",
-      "description": "A diverse selection of 1,000 games, playable both offline and online.",
-      "lien_affiliation": "https://bit.ly/404ifs0",
-      "imageLink": "https://play-lh.googleusercontent.com/GQgb6tnlM9J9zpc54uq91UjvURgfdza-5aSZFFQ6gcATy-dsEUYotJMlW6eYc3L1co8=s250-rw"
-    },
-    {
-      "id": 91,
       "nom": "Ai Store - All Ai Tools",
       "description": "All AI tools in one app collection of everyone's needs, available in the market",
       "lien_affiliation": "https://play.google.com/store/apps/details?id=ai.archigenie.aixperia",
